@@ -1,0 +1,2 @@
+# VectorClip-ComposeDesktop
+ComposeDesktop的SVG解析工具，用于按照SVG路径剪裁内容
